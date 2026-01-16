@@ -1,0 +1,392 @@
+Analyzing garage_screen.dart...                                 
+
+  error • Methods can't be invoked in constant expressions • lib/screens/garage_screen.dart:94:49 • const_eval_method_invocation
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:94:54 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:109:27 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:113:38 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:122:27 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:132:24 • argument_type_not_assignable
+  error • The method 'icon' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:134:34 • undefined_method
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:137:33 • argument_type_not_assignable
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:138:43 • undefined_method
+warning • The value of the local variable 'hasPhoto' isn't used • lib/screens/garage_screen.dart:197:28 • unused_local_variable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:249:60 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:281:33 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:290:33 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:319:48 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:397:87 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:401:87 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:429:54 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:440:17 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:453:20 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:455:17 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:476:13 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:489:20 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:501:23 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:547:37 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:571:49 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:582:29 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:590:29 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:627:33 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:648:23 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:661:26 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:663:23 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:707:21 • argument_type_not_assignable
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/garage_screen.dart:754:41 • use_build_context_synchronously
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:767:71 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:774:51 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:779:51 • argument_type_not_assignable
+  error • The named parameter 'textAlign' isn't defined • lib/screens/garage_screen.dart:780:51 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:795:69 • argument_type_not_assignable
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:801:57 • undefined_named_parameter
+   info • Don't use 'BuildContext's across async gaps • lib/screens/garage_screen.dart:827:87 • use_build_context_synchronously
+  error • Methods can't be invoked in constant expressions • lib/screens/garage_screen.dart:827:133 • const_eval_method_invocation
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:827:138 • argument_type_not_assignable
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:836:57 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:836:79 • undefined_method
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:842:57 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:842:69 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:888:83 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:890:28 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:906:66 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:917:37 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:922:34 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:926:45 • argument_type_not_assignable
+  error • The named parameter 'maxLines' isn't defined • lib/screens/garage_screen.dart:926:82 • undefined_named_parameter
+  error • The named parameter 'overflow' isn't defined • lib/screens/garage_screen.dart:926:95 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:952:21 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:954:11 • argument_type_not_assignable
+warning • Dead code • lib/screens/garage_screen.dart:954:65 • dead_code
+warning • The left operand can't be null, so the right operand is never executed • lib/screens/garage_screen.dart:954:68 • dead_null_aware_expression
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:959:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:972:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:984:21 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:985:23 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:989:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1000:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1037:18 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:1050:50 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1059:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1084:32 • argument_type_not_assignable
+warning • The value of the local variable 'selectedSeries' isn't used • lib/screens/garage_screen.dart:1133:13 • unused_local_variable
+warning • The value of the local variable 'selectedZeroKmImageUrl' isn't used • lib/screens/garage_screen.dart:1138:13 • unused_local_variable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1252:27 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1272:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1344:46 • argument_type_not_assignable
+  error • The name 'Text' isn't a class • lib/screens/garage_screen.dart:1394:33 • creation_with_non_type
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1409:53 • argument_type_not_assignable
+   info • The parameter name 'count' matches a visible type name • lib/screens/garage_screen.dart:1411:57 • avoid_types_as_parameter_names
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1430:57 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1458:80 • argument_type_not_assignable
+  error • The name 'Text' isn't a class • lib/screens/garage_screen.dart:1476:53 • creation_with_non_type
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1478:49 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1524:115 • argument_type_not_assignable
+  error • The argument type 'List<dynamic>' can't be assigned to the parameter type 'List<Widget>'.  • lib/screens/garage_screen.dart:1544:56 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1546:51 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1561:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1580:54 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1582:54 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1598:54 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1600:54 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1610:45 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1612:35 • argument_type_not_assignable
+   info • 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre • lib/screens/garage_screen.dart:1616:33 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1632:49 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1659:50 • argument_type_not_assignable
+  error • The name 'Text' isn't a class • lib/screens/garage_screen.dart:1715:36 • creation_with_non_type
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1722:161 • argument_type_not_assignable
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:1750:31 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:1750:53 • undefined_method
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:1755:31 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1757:101 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1763:102 • argument_type_not_assignable
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/garage_screen.dart:1777:60 • use_build_context_synchronously
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1777:105 • argument_type_not_assignable
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/garage_screen.dart:1847:70 • use_build_context_synchronously
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1847:115 • argument_type_not_assignable
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:1850:31 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1852:40 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1896:15 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1901:15 • argument_type_not_assignable
+  error • The named parameter 'textAlign' isn't defined • lib/screens/garage_screen.dart:1903:15 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1937:31 • argument_type_not_assignable
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:1943:19 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1950:49 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1981:45 • argument_type_not_assignable
+  error • The named parameter 'behavior' isn't defined • lib/screens/garage_screen.dart:1983:32 • undefined_named_parameter
+  error • Expected to find ';' • lib/screens/garage_screen.dart:1984:28 • expected_token
+  error • Expected an identifier • lib/screens/garage_screen.dart:1984:29 • missing_identifier
+  error • Unexpected text ',' • lib/screens/garage_screen.dart:1984:29 • unexpected_token
+  error • Expected to find '}' • lib/screens/garage_screen.dart:1985:26 • expected_token
+  error • Expected to find ')' • lib/screens/garage_screen.dart:1985:27 • expected_token
+  error • Expected to find ']' • lib/screens/garage_screen.dart:1985:27 • expected_token
+  error • Expected a class member • lib/screens/garage_screen.dart:1987:24 • expected_class_member
+  error • Expected a class member • lib/screens/garage_screen.dart:1987:30 • expected_class_member
+   info • Missing type annotation • lib/screens/garage_screen.dart:1990:21 • strict_top_level_inference
+  error • 'if' can't be used as an identifier because it's a keyword • lib/screens/garage_screen.dart:1990:21 • expected_identifier_but_got_keyword
+   info • Missing type annotation • lib/screens/garage_screen.dart:1990:25 • strict_top_level_inference
+  error • Expected to find ')' • lib/screens/garage_screen.dart:1990:29 • expected_token
+  error • The await expression can only be used in an async function • lib/screens/garage_screen.dart:1991:23 • await_in_wrong_context
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:1991:29 • undefined_identifier
+  error • Undefined name 'car' • lib/screens/garage_screen.dart:1991:65 • undefined_identifier
+  error • Undefined name 'newKm' • lib/screens/garage_screen.dart:1991:74 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:1992:27 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:1992:58 • undefined_identifier
+   info • Missing type annotation • lib/screens/garage_screen.dart:1993:23 • strict_top_level_inference
+  error • 'else' can't be used as an identifier because it's a keyword • lib/screens/garage_screen.dart:1993:23 • expected_identifier_but_got_keyword
+  error • Functions must have an explicit list of parameters • lib/screens/garage_screen.dart:1993:23 • missing_function_parameters
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:1995:28 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:1996:47 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:1997:50 • argument_type_not_assignable
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:1997:114 • undefined_identifier
+  error • Undefined name 'car' • lib/screens/garage_screen.dart:1997:125 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:1997:163 • undefined_identifier
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2001:19 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2001:20 • expected_executable
+   info • An uninitialized variable should have an explicit type annotation • lib/screens/garage_screen.dart:2002:19 • prefer_typing_uninitialized_variables
+   info • Missing type annotation • lib/screens/garage_screen.dart:2002:19 • strict_top_level_inference
+  error • Expected to find ';' • lib/screens/garage_screen.dart:2002:19 • expected_token
+  error • Variables must be declared using the keywords 'const', 'final', 'var' or a type name • lib/screens/garage_screen.dart:2002:19 • missing_const_final_var_or_type
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2002:24 • expected_executable
+   info • Missing type annotation • lib/screens/garage_screen.dart:2002:26 • strict_top_level_inference
+   info • The variable name 'ElevatedButton' isn't a lowerCamelCase identifier • lib/screens/garage_screen.dart:2002:26 • non_constant_identifier_names
+  error • Functions must have an explicit list of parameters • lib/screens/garage_screen.dart:2002:26 • missing_function_parameters
+  error • A function body must be provided • lib/screens/garage_screen.dart:2002:40 • missing_function_body
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2002:40 • expected_executable
+   info • Missing type annotation • lib/screens/garage_screen.dart:2002:41 • strict_top_level_inference
+   info • Missing type annotation • lib/screens/garage_screen.dart:2003:21 • strict_top_level_inference
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2003:36 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2003:36 • obsolete_colon_for_default_value
+   info • Missing type annotation • lib/screens/garage_screen.dart:2004:21 • strict_top_level_inference
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2004:36 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2004:36 • obsolete_colon_for_default_value
+   info • Missing type annotation • lib/screens/garage_screen.dart:2005:21 • strict_top_level_inference
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2005:28 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2005:28 • obsolete_colon_for_default_value
+   info • Missing type annotation • lib/screens/garage_screen.dart:2006:21 • strict_top_level_inference
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2006:26 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2006:26 • obsolete_colon_for_default_value
+  error • The default value of an optional parameter must be constant • lib/screens/garage_screen.dart:2006:28 • non_constant_default_value
+   info • Missing type annotation • lib/screens/garage_screen.dart:2007:21 • strict_top_level_inference
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2007:30 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2007:30 • obsolete_colon_for_default_value
+  error • A function body must be provided • lib/screens/garage_screen.dart:2008:20 • missing_function_body
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2008:20 • expected_executable
+   info • An uninitialized variable should have an explicit type annotation • lib/screens/garage_screen.dart:2009:19 • prefer_typing_uninitialized_variables
+   info • Missing type annotation • lib/screens/garage_screen.dart:2009:19 • strict_top_level_inference
+  error • Expected to find ';' • lib/screens/garage_screen.dart:2009:19 • expected_token
+  error • Variables must be declared using the keywords 'const', 'final', 'var' or a type name • lib/screens/garage_screen.dart:2009:19 • missing_const_final_var_or_type
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2009:24 • expected_executable
+   info • Missing type annotation • lib/screens/garage_screen.dart:2009:26 • strict_top_level_inference
+   info • The variable name 'Text' isn't a lowerCamelCase identifier • lib/screens/garage_screen.dart:2009:26 • non_constant_identifier_names
+   info • The local variable '_t' starts with an underscore • lib/screens/garage_screen.dart:2009:31 • no_leading_underscores_for_local_identifiers
+   info • Use the generic function type syntax to declare the parameter '_t' • lib/screens/garage_screen.dart:2009:31 • use_function_type_syntax_for_parameters
+  error • Expected an identifier • lib/screens/garage_screen.dart:2009:34 • missing_identifier
+  error • Named parameters must be enclosed in curly braces ('{' and '}') • lib/screens/garage_screen.dart:2009:48 • named_parameter_outside_group
+  error • Using a colon as the separator before a default value is no longer supported • lib/screens/garage_screen.dart:2009:48 • obsolete_colon_for_default_value
+  error • A function body must be provided • lib/screens/garage_screen.dart:2009:109 • missing_function_body
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2009:109 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2010:17 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2010:18 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2011:15 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2011:16 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2012:13 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2012:14 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2013:11 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2013:12 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2014:9 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2014:10 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2015:7 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2015:8 • expected_executable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2016:5 • expected_executable
+  error • Unexpected text ';' • lib/screens/garage_screen.dart:2016:6 • unexpected_token
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:2017:3 • expected_executable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2022:16 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2040:27 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2041:13 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2041:57 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2042:11 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2043:30 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2044:34 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2052:16 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2083:23 • argument_type_not_assignable
+  error • The function '_formatDate' isn't defined • lib/screens/garage_screen.dart:2093:83 • undefined_function
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2101:29 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2110:23 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2117:68 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2119:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2142:14 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2145:13 • argument_type_not_assignable
+warning • The value of the local variable 'progress' isn't used • lib/screens/garage_screen.dart:2156:12 • unused_local_variable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2189:25 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2192:41 • deprecated_member_use
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2194:44 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2203:17 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2207:35 • undefined_identifier
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2215:37 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2215:59 • deprecated_member_use
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2218:58 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2227:20 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2229:17 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2235:35 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2244:17 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2252:18 • argument_type_not_assignable
+  error • The function '_formatDate' isn't defined • lib/screens/garage_screen.dart:2255:32 • undefined_function
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2264:26 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2266:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2267:26 • argument_type_not_assignable
+   info • Unnecessary use of 'toList' in a spread • lib/screens/garage_screen.dart:2275:16 • unnecessary_to_list_in_spreads
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2291:16 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2352:86 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2356:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2365:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2380:33 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2391:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2410:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2426:28 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2445:84 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2448:36 • argument_type_not_assignable
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:2466:27 • undefined_named_parameter
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2471:34 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2474:101 • argument_type_not_assignable
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2488:38 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2488:76 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2494:41 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2494:83 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2499:40 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2499:70 • undefined_identifier
+  error • Undefined name 'mounted' • lib/screens/garage_screen.dart:2502:36 • undefined_identifier
+   info • Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check • lib/screens/garage_screen.dart:2503:55 • use_build_context_synchronously
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2504:59 • argument_type_not_assignable
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:2509:27 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:2509:49 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2514:66 • deprecated_member_use
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:2516:27 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2516:39 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2532:16 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2534:21 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2535:23 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2539:26 • argument_type_not_assignable
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2543:20 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2544:24 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2544:59 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2550:26 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2604:25 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2607:41 • deprecated_member_use
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2609:44 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2618:17 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2622:35 • undefined_identifier
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2633:52 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2638:29 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2651:20 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2653:17 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2657:73 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2666:17 • argument_type_not_assignable
+warning • The declaration '_buildMiniInfo' isn't referenced • lib/screens/garage_screen.dart:2677:10 • unused_element
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2683:11 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2696:16 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2726:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2773:38 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2776:31 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2788:40 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2797:85 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2809:33 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2815:57 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2817:35 • argument_type_not_assignable
+   info • Unnecessary use of 'toList' in a spread • lib/screens/garage_screen.dart:2820:19 • unnecessary_to_list_in_spreads
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:2833:14 • undefined_named_parameter
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:2834:14 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:2834:36 • undefined_method
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:2835:42 • undefined_identifier
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:2839:14 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2839:26 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2852:25 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2873:64 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2881:35 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2893:53 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2894:55 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2896:108 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2897:107 • argument_type_not_assignable
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2901:59 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:2902:45 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:2902:82 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2910:148 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2915:149 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2933:41 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2944:55 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2953:30 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2960:45 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:2979:56 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2989:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:2990:28 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3012:35 • argument_type_not_assignable
+  error • Undefined name 'context' • lib/screens/garage_screen.dart:3049:17 • undefined_identifier
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3070:33 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3089:46 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3098:46 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3107:41 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3142:46 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3145:61 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3177:29 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3211:104 • deprecated_member_use
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3212:99 • deprecated_member_use
+   info • Statements in an if should be enclosed in a block • lib/screens/garage_screen.dart:3218:65 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/garage_screen.dart:3219:69 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/garage_screen.dart:3220:69 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/garage_screen.dart:3221:73 • curly_braces_in_flow_control_structures
+   info • Statements in an if should be enclosed in a block • lib/screens/garage_screen.dart:3222:44 • curly_braces_in_flow_control_structures
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3242:47 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3244:47 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3277:42 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3279:64 • argument_type_not_assignable
+   info • Unnecessary use of 'toList' in a spread • lib/screens/garage_screen.dart:3279:134 • unnecessary_to_list_in_spreads
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3291:76 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3296:54 • argument_type_not_assignable
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:3302:26 • undefined_named_parameter
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:3326:34 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:3338:45 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:3338:73 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:3341:45 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:3341:79 • undefined_identifier
+  error • Undefined name '_firestoreService' • lib/screens/garage_screen.dart:3356:45 • undefined_identifier
+  error • Undefined name 'uid' • lib/screens/garage_screen.dart:3356:73 • undefined_identifier
+   info • Don't use 'BuildContext's across async gaps • lib/screens/garage_screen.dart:3360:57 • use_build_context_synchronously
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3360:102 • argument_type_not_assignable
+  error • The function 'setState' isn't defined • lib/screens/garage_screen.dart:3365:30 • undefined_function
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:3367:26 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:3367:48 • undefined_method
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:3373:26 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3373:38 • argument_type_not_assignable
+warning • The value of the local variable 'localizedTokens' isn't used • lib/screens/garage_screen.dart:3490:18 • unused_local_variable
+  error • Expected a method, getter, setter or operator declaration • lib/screens/garage_screen.dart:3583:1 • expected_executable
+   info • Parameter 'key' could be a super parameter • lib/screens/garage_screen.dart:3590:9 • use_super_parameters
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3729:25 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3759:38 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3773:21 • argument_type_not_assignable
+  error • The named parameter 'onPressed' isn't defined • lib/screens/garage_screen.dart:3817:17 • undefined_named_parameter
+  error • The named parameter 'style' isn't defined • lib/screens/garage_screen.dart:3818:17 • undefined_named_parameter
+  error • The method 'styleFrom' isn't defined for the type 'Function' • lib/screens/garage_screen.dart:3818:39 • undefined_method
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3822:56 • deprecated_member_use
+  error • The named parameter 'child' isn't defined • lib/screens/garage_screen.dart:3824:17 • undefined_named_parameter
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3825:19 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3853:33 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3862:14 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3873:31 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3908:34 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3923:22 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3924:22 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3939:14 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3962:14 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3982:14 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:3995:31 • argument_type_not_assignable
+   info • 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss • lib/screens/garage_screen.dart:3999:58 • deprecated_member_use
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4035:18 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4048:29 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4077:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4091:35 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4123:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4124:40 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4128:116 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4159:32 • argument_type_not_assignable
+  error • The argument type 'String' can't be assigned to the parameter type 'dynamic Function(dynamic)'.  • lib/screens/garage_screen.dart:4163:141 • argument_type_not_assignable
+
